@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "expressjs": "^1.0.1"
+  },
+  "name": "recup4points",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quentin-aslan/recup4points.git"
+  },
+  "author": "Quentin Aslan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quentin-aslan/recup4points/issues"
+  },
+  "homepage": "https://github.com/quentin-aslan/recup4points#readme",
+  "description": ""
+}
